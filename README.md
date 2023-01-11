@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 # Welcome to JJUNNY's Profile
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -25,5 +26,5 @@
 <br/>
    <br/>
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=cobalt)
 </div>  
