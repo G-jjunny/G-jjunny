@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&fontSize=50&animation=twinkling&fontAlignY=30&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&descAlignY=55&fontSize=50&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
 <div align=center><h2>🛰 Teck Stack</h2></div>
 <div align=center>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
