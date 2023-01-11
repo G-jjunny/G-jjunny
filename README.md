@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-# Welcome to JJUNNY's Profile
-
-<div align=center><h1>📚 STACKS</h1></div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&fontSize=50&animation=twinkling&fontAlignY=30&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
+<div align=center><h2>🛰 Teck Stack</h2></div>
 <div align=center>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -27,4 +25,4 @@
    <br/>
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=cobalt)
-</div>  
+</div>
