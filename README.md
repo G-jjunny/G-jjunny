@@ -1,8 +1,5 @@
 # Welcome to JJUNNY's Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=radical)
-
-
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -25,4 +22,8 @@
    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
    <br/>
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=github&logoColor=white">
+<br/>
+   <br/>
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=radical)
 </div>  
