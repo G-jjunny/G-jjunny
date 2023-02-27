@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&descAlignY=55&fontSize=50&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
-<div align=center><h2>🛰 Teck Stack</h2></div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7878FF,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&descAlignY=55&fontSize=50&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
+<div align=center><h1>🛰 Teck Stack</h1></div>
 <div align=center>
+   <br/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -12,6 +13,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=Ant Design&logoColor=white">
   <br/>
+   <br />
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
