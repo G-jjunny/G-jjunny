@@ -32,5 +32,6 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=cobalt)
 
+   [![trophy](https://github-profile-trophy.vercel.app/?username=G-jjunny)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
