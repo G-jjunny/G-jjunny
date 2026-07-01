@@ -30,13 +30,13 @@
 
 **Core**
 
-[![Core](https://skillicons.dev/icons?i=js,ts,postgres)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <br/>
 
 **Frameworks & Libraries**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,prisma)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,prisma,postgres)](https://skillicons.dev)
 
 <br/>
 
