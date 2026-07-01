@@ -1,43 +1,90 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7878FF,80:000000&height=200&section=header&text=Hello%20jjunny%20World🌙&desc=Welcon%20to%20Front%20end%20world&descAlign=65&descAlignY=55&fontSize=50&animation=twinkling&fontAlignY=35&fontColor=ffffff&stroke=FFFFFF&stokeWidth=1)
-<div align=center><h1>🛰 Teck Stack</h1></div>
-<div align=center>
-   <br/>
-   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br/>
-  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   <br />
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-   <br />
-   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
-   <br/>
-   <div>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=Ant Design&logoColor=white">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white">
-  </div>
-  <div align=center>
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-   </div>
-   <br/>
-   <br/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7878FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+jjunny+%F0%9F%91%8B;Frontend+Developer;React+%7C+NextJS+%7C+Claude;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=G-jjunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-jjunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
-</div>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=cobalt)
 
-   [![trophy](https://github-profile-trophy.vercel.app/?username=G-jjunny&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🙋‍♂️ About Me
+
+> 사용자 경험을 중시하는 프론트엔드 개발자입니다.
+
+<br/>
+
+|                      |                         |
+| -------------------- | ----------------------- |
+| 🎯 **Focus**         | Frontend Development    |
+| ⚡ **Interested in** | React · Flutter · UI/UX |
+| 📬 **Contact**       | rudwns9026@gmail.com    |
+
 </div>
 
+---
+
+<div align="center">
+
+## 🛠 Tech Stack
+
+**Core**
+
+[![Core](https://skillicons.dev/icons?i=js,ts,postgres)](https://skillicons.dev)
+
+<br/>
+
+**Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,prisma)](https://skillicons.dev)
+
+<br/>
+
+**Styling**
+
+[![Styling](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind)](https://skillicons.dev)
+
+<br/>
+
+**Tools**
+
+[![Tools](https://skillicons.dev/icons?i=figma,postman,netlify,vercel,claude)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=G-jjunny&show_icons=true&theme=cobalt&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-jjunny&locale=en&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true" height="150"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=G-jjunny&theme=cobalt&hide_border=true&locale=ko"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/G-jjunny/G-jjunny/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/G-jjunny/G-jjunny/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/G-jjunny/G-jjunny/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-kjjung%40ethree.co.kr-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudwns9026@gmail.com)
+
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,80:7878FF&height=120&section=footer)
