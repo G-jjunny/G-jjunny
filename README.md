@@ -81,7 +81,7 @@
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-kjjung%40ethree.co.kr-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudwns9026@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rudwns9026%40gmain.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudwns9026@gmail.com)
 
 </div>
 
