@@ -14,11 +14,11 @@
 
 <br/>
 
-|                      |                         |
-| -------------------- | ----------------------- |
-| 🎯 **Focus**         | Frontend Development    |
-| ⚡ **Interested in** | React · Flutter · UI/UX |
-| 📬 **Contact**       | rudwns9026@gmail.com    |
+|                      |                      |
+| -------------------- | -------------------- |
+| 🎯 **Focus**         | Frontend Development |
+| ⚡ **Interested in** | React · Next · UI/UX |
+| 📬 **Contact**       | rudwns9026@gmail.com |
 
 </div>
 
@@ -37,12 +37,6 @@
 **Frameworks & Libraries**
 
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,prisma,postgres)](https://skillicons.dev)
-
-<br/>
-
-**Styling**
-
-[![Styling](https://skillicons.dev/icons?i=sass,styledcomponents,tailwind)](https://skillicons.dev)
 
 <br/>
 
@@ -81,7 +75,7 @@
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-rudwns9026%40gmain.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudwns9026@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rudwns9026%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rudwns9026@gmail.com)
 
 </div>
 
