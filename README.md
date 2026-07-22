@@ -18,31 +18,11 @@
 
 ## 💻 About Me
 
-```bash
+<div align="center">
 
-╭─── Claude Code v2.1.217 ────────────────────────────────────────────────╮
-│                          │ Tips for getting started                     │
-│   Welcome back jjunny!   │ Run /init to create a CLAUDE.md file with i… │
-│                          │ ──────────────────────────────────────────   │
-│         ▐▛███▜▌          │ What's new                                   │
-│        ▝▜█████▛▘         │ Added emoji shortcode autocomplete in the p… │
-│          ▘▘ ▝▝           │ Fixed a memory leak where truncated MCP too… │
-│  Opus 4.8 · Claude Max   │ /release-notes for more                      │
-│     ~/Desktop/jjunny     │                                              │
-╰─────────────────────────────────────────────────────────────────────────╯
+<img src="assets/claude-terminal.svg" width="780" alt="Claude Code terminal — jjunny introduction"/>
 
-> whoami
-
-⏺ jjunny — Frontend Developer
-
-  React와 Next.js로 사용자 경험을 만드는 프론트엔드 개발자입니다.
-
-  🎯 Focus     Frontend Development
-  ⚡ Stack     React · Next.js · TypeScript
-  📬 Contact   rudwns9026@gmail.com
-
-> █
-```
+</div>
 
 <div align="center">
 
