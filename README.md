@@ -1,25 +1,5 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7878FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+jjunny+%F0%9F%91%8B;Frontend+Developer;React+%7C+NextJS+%7C+Claude;Welcome+to+my+GitHub!)
-
-</div>
-
-<div align="center">
-
-
-|                     |                                                     |
-| ------------------- | --------------------------------------------------- |
-| 🎯 **Focus**        | Frontend Development                                |
-| ⚡ **Interested in** | React · Next · UI/UX                                |
-| 📬 **Contact**      | [rudwns9026@gmail.com](mailto:rudwns9026@gmail.com) |
-
-
-</div>
-
-## 💻 About Me
-
-<div align="center">
-
 <img src="assets/claude-terminal.svg" width="780" alt="Claude Code terminal — jjunny introduction"/>
 
 </div>
