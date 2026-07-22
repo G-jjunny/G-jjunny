@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="516" viewBox="0 0 780 516" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
+
+  <style>
+    /* ══ Theme-adaptive colors (GitHub dark/light) ══ */
+    .c-fg     { fill: #E8E6E3 }
+    .c-soft   { fill: #B8B5B0 }
+    .c-muted  { fill: #8A8A86 }
+    .c-accent { fill: #D97757 }
+    .c-green  { fill: #7EE787 }
+    .c-border { stroke: #4A4A46 }
+    .c-hr     { stroke: #3A3A38 }
+    @media (prefers-color-scheme: light) {
+      .c-fg     { fill: #1F2328 }
+      .c-soft   { fill: #454C54 }
+      .c-muted  { fill: #59636E }
+      .c-accent { fill: #C15F3C }
+      .c-green  { fill: #1A7F37 }
+      .c-border { stroke: #D1D9E0 }
+      .c-hr     { stroke: #D8DEE4 }
+    }
+
+    /* ══ Animations ══
+       Base state = fully visible, so frozen/reduced-motion renderers
+       still show the complete terminal. Each keyframe dips to hidden
+       right after 0% and reveals at its scheduled time (T = 4.5s). */
+    #box    { animation: kBox    4.5s linear forwards }
+    #typed  { animation: kType   4.5s linear forwards }
+    #resp1  { animation: kR1     4.5s linear forwards }
+    #resp2  { animation: kR2     4.5s linear forwards }
+    #resp3  { animation: kR3     4.5s linear forwards }
+    #resp4  { animation: kR4     4.5s linear forwards }
+    #resp5  { animation: kR5     4.5s linear forwards }
+    #prompt { animation: kPrompt 4.5s linear forwards }
+    #cursor { animation: blink 1.1s step-end 4.5s infinite }
+
+    @keyframes kBox    { 0% {opacity:1} 1% {opacity:0} 8.9% {opacity:0} 16.7% {opacity:1} 100% {opacity:1} }
+    @keyframes kR1     { 0% {opacity:1} 1% {opacity:0} 53.3% {opacity:0} 60% {opacity:1} 100% {opacity:1} }
+    @keyframes kR2     { 0% {opacity:1} 1% {opacity:0} 61.1% {opacity:0} 67.8% {opacity:1} 100% {opacity:1} }
+    @keyframes kR3     { 0% {opacity:1} 1% {opacity:0} 68.9% {opacity:0} 75.6% {opacity:1} 100% {opacity:1} }
+    @keyframes kR4     { 0% {opacity:1} 1% {opacity:0} 73.3% {opacity:0} 80% {opacity:1} 100% {opacity:1} }
+    @keyframes kR5     { 0% {opacity:1} 1% {opacity:0} 77.8% {opacity:0} 84.4% {opacity:1} 100% {opacity:1} }
+    @keyframes kPrompt { 0% {opacity:1} 1% {opacity:0} 88.9% {opacity:0} 92.2% {opacity:1} 100% {opacity:1} }
+
+    /* typewriter: reveal one char at a time via clip-path steps */
+    @keyframes kType {
+      0%     { clip-path: none }
+      1%     { clip-path: inset(-20% 100% -20% 0) }
+      24.4%  { clip-path: inset(-20% 100% -20% 0) }
+      24.5%  { clip-path: inset(-20% 83.3% -20% 0) }
+      27.8%  { clip-path: inset(-20% 83.3% -20% 0) }
+      27.9%  { clip-path: inset(-20% 66.7% -20% 0) }
+      31.1%  { clip-path: inset(-20% 66.7% -20% 0) }
+      31.2%  { clip-path: inset(-20% 50% -20% 0) }
+      34.4%  { clip-path: inset(-20% 50% -20% 0) }
+      34.5%  { clip-path: inset(-20% 33.3% -20% 0) }
+      37.8%  { clip-path: inset(-20% 33.3% -20% 0) }
+      37.9%  { clip-path: inset(-20% 16.7% -20% 0) }
+      41.1%  { clip-path: inset(-20% 16.7% -20% 0) }
+      41.2%  { clip-path: inset(-20% -5% -20% 0) }
+      100%   { clip-path: inset(-20% -5% -20% 0) }
+    }
+    @keyframes blink { 0% {opacity:1} 50% {opacity:0} }
+
+    @media (prefers-reduced-motion: reduce) {
+      #box, #typed, #resp1, #resp2, #resp3, #resp4, #resp5, #prompt, #cursor { animation: none }
+    }
+  </style>
+
+  <!-- ══ $ claude ══ -->
+  <text x="30" y="36"><tspan class="c-green">$</tspan><tspan class="c-fg" dx="8">claude</tspan></text>
+
+  <!-- ══ Claude Code header box ══ -->
+  <g id="box">
+    <!-- border with a gap on the top edge for the title -->
+    <path class="c-border" fill="none" d="M 244 54 L 742 54 Q 750 54 750 62 L 750 258 Q 750 266 742 266 L 38 266 Q 30 266 30 258 L 30 62 Q 30 54 38 54 L 46 54"/>
+    <line class="c-border" x1="252" y1="55" x2="252" y2="265"/>
+    <!-- title sitting in the border gap -->
+    <text x="56" y="59" class="c-accent" font-weight="bold">Claude Code <tspan class="c-muted" font-weight="normal">v10.31.1998</tspan></text>
+
+    <!-- left column -->
+    <text x="141" y="94" text-anchor="middle" class="c-fg">Welcome back jjunny!</text>
+    <g class="c-accent" font-size="17" text-anchor="middle">
+      <text x="141" y="141">▐▛███▜▌</text>
+      <text x="141" y="160">▝▜█████▛▘</text>
+      <text x="141" y="179">▘▘ ▝▝</text>
+    </g>
+    <text x="141" y="218" text-anchor="middle" class="c-muted" font-size="12">Opus 4.8 · Claude Max</text>
+    <text x="141" y="240" text-anchor="middle" class="c-muted" font-size="12">~/Desktop/jjunny</text>
+
+    <!-- right column -->
+    <text x="274" y="89" class="c-fg" font-weight="bold">Tips for getting started</text>
+    <text x="274" y="113" class="c-muted" font-size="13">Run /init to create a CLAUDE.md file with instructions</text>
+    <line class="c-hr" x1="274" y1="128" x2="728" y2="128"/>
+    <text x="274" y="152" class="c-fg" font-weight="bold">What's new</text>
+    <text x="274" y="176" class="c-muted" font-size="13">Added emoji shortcode autocomplete in the prompt input</text>
+    <text x="274" y="198" class="c-muted" font-size="13">Fixed a memory leak in truncated MCP tool outputs</text>
+    <text x="274" y="226" class="c-muted" font-size="13">/release-notes for more</text>
+  </g>
+
+  <!-- ══ > whoami (typing) ══ -->
+  <text x="30" y="304" class="c-accent">&gt;</text>
+  <text id="typed" x="54" y="304" class="c-fg">whoami</text>
+
+  <!-- ══ Response ══ -->
+  <g id="resp1">
+    <circle cx="36" cy="336" r="4.5" class="c-accent"/>
+    <text x="54" y="341" class="c-fg" font-weight="bold">jjunny <tspan class="c-muted" font-weight="normal">—</tspan> Frontend Developer</text>
+  </g>
+
+  <g id="resp2">
+    <text x="54" y="369" class="c-soft">React와 Next.js로 사용자 경험을 만드는 프론트엔드 개발자입니다.</text>
+  </g>
+
+  <g id="resp3">
+    <text x="54" y="403">🎯 <tspan class="c-accent" dx="6">Focus</tspan><tspan class="c-fg" x="200">Frontend Development</tspan></text>
+  </g>
+  <g id="resp4">
+    <text x="54" y="429">⚡ <tspan class="c-accent" dx="6">Stack</tspan><tspan class="c-fg" x="200">React · Next.js · TypeScript</tspan></text>
+  </g>
+  <g id="resp5">
+    <text x="54" y="455">📬 <tspan class="c-accent" dx="6">Contact</tspan><tspan class="c-fg" x="200">rudwns9026@gmail.com</tspan></text>
+  </g>
+
+  <!-- ══ Final prompt + blinking cursor ══ -->
+  <g id="prompt">
+    <text x="30" y="494" class="c-accent">&gt;</text>
+    <rect id="cursor" x="52" y="480" width="9" height="18" class="c-fg"/>
+  </g>
+</svg>
