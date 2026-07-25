@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=G-jjunny&theme=dracula&hide_border=true&locale=ko"/>
+<img src="https://streak-stats.demolab.com?user=G-jjunny&theme=dracula&hide_border=true" height="150"/>
 
 <br/>
 
@@ -39,4 +39,3 @@
 </div>
 
 <br/>
-
